@@ -2,7 +2,7 @@
 
 ![Wanderlust](./public/icon/Screenshot%20-%20wanderlust.png)
 
-Wanderlust is a platform that allows users to list and showcase their properties or hotel rooms for rent by adding detailed descriptions, images, pricing, and location information. Other users (guests) can easily browse and explore these available stays, view photos, check amenities, and see locations on an interactive map. This makes it simple for people to find unique and suitable places to stay, while giving owners a way to share and manage their rental spaces directly through the platform.
+Wanderlust is a platform that allows users to list and showcase their properties or hotel rooms for rent by adding detailed descriptions, images, pricing, and location information. Other users (guests) can easily browse and explore these available stays, view photos, check amenities, and see locations on an interactive map.
 
 ## Technologies Used
 
